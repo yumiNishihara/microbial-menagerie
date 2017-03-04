@@ -1,6 +1,6 @@
 # A Guide for Managing Your Microbial Menagerie
 
-## Before you grow
+## [Before you grow](before-you-grow.md) 
 
 ## How to grow
 * [Slime mold](slime-mold.md) (incomplete)
