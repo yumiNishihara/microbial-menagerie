@@ -3,7 +3,7 @@
 ## Before you grow
 
 ## How to grow
-* Slime mold (incomplete)
+* [Slime mold](slime-mold.md) (incomplete)
 * [Paramecium](http://bio.academany.org/labs/fablabkamakura/students/yumi/weeks/w11.html) (incomplete)
 * [Mycelium](http://bio.academany.org/labs/fablabkamakura/students/yumi/weeks/w16.html) (incomplete)
 * Kombucha Scoby (Comming soon...)
