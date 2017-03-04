@@ -1,4 +1,4 @@
-### A Guide for Managing Your Microbial Menagerie
+# A Guide for Managing Your Microbial Menagerie
 
 ## Before you grow
 
